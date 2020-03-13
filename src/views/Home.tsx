@@ -1,5 +1,6 @@
 import React  from "react"
 import StateAndProps from "./StatesAndProps"
+import "../styles/general.scss"
 
 
 const Home = () => {
